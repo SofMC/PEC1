@@ -74,4 +74,6 @@ public class Aplicacion implements Serializable {
     public String getCategoria(){
     return categoria;
     }
+    
+    /*   Realizaremos cambios en esta clase*/
 }
